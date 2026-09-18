@@ -1,0 +1,16 @@
+# Segredos: nunca versionar
+ssh/
+wg/
+frp/
+*.key
+*.pem
+token.txt
+server-private.cfg
+
+# Binarios e logs
+*.exe
+*.zip
+*.tar.gz
+logs/
+bin/
+obj/
